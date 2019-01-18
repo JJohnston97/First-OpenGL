@@ -1,0 +1,82 @@
+newmtl base
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl base_NONE
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+map_Kd piper_diffuse.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl glass
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.08 0.08 0.08
+Tf 0.10 0.10 0.10
+Ni 1.30
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl glass_NONE
+illum 4
+Kd 0.68 0.68 0.68
+Ka 0.08 0.08 0.08
+Tf 0.10 0.10 0.10
+Ni 1.30
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl internals_alu
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.50 0.50 0.50
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl internals_alu_NONE
+illum 4
+Kd 0.34 0.34 0.34
+Ka 0.50 0.50 0.50
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl internals_b
+illum 4
+Kd 0.01 0.01 0.01
+Ka 0.10 0.10 0.10
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl mirror
+illum 4
+Kd 0.56 0.56 0.56
+Ka 0.08 0.08 0.08
+Tf 0.20 0.20 0.20
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl prop
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.10 0.10 0.10
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl tires
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks piper_refl.jpg
+Ns 96.08

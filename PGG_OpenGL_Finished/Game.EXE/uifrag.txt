@@ -1,0 +1,19 @@
+#version 430 core
+
+
+in vec2 texCoord;
+
+
+// The output of the fragment shader is the fragment's colour
+out vec4 fragColour;
+
+uniform sampler2D tex1;		//Texture 1
+uniform sampler2D tex2;		//Texture 2
+
+
+void main()
+{
+	fragColour = texture2D(tex1, texCoord);
+	//fragColour = vec4(1, 0, 0, 1);
+	
+}

@@ -1,0 +1,16 @@
+﻿  Scene.cpp
+w:\pgg_opengl_jamie_johnston\pgg_opengl_finished\pgg_flyingteapot\scene.cpp(21): warning C4305: '=': truncation from 'double' to 'float'
+w:\pgg_opengl_jamie_johnston\pgg_opengl_finished\pgg_flyingteapot\scene.cpp(31): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+w:\pgg_opengl_jamie_johnston\pgg_opengl_finished\pgg_flyingteapot\scene.cpp(143): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+w:\pgg_opengl_jamie_johnston\pgg_opengl_finished\pgg_flyingteapot\scene.cpp(144): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+w:\pgg_opengl_jamie_johnston\pgg_opengl_finished\pgg_flyingteapot\scene.cpp(145): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+w:\pgg_opengl_jamie_johnston\pgg_opengl_finished\pgg_flyingteapot\scene.cpp(146): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+w:\pgg_opengl_jamie_johnston\pgg_opengl_finished\pgg_flyingteapot\scene.cpp(147): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+w:\pgg_opengl_jamie_johnston\pgg_opengl_finished\pgg_flyingteapot\scene.cpp(345): warning C4018: '<': signed/unsigned mismatch
+w:\pgg_opengl_jamie_johnston\pgg_opengl_finished\pgg_flyingteapot\scene.cpp(352): warning C4018: '<': signed/unsigned mismatch
+w:\pgg_opengl_jamie_johnston\pgg_opengl_finished\pgg_flyingteapot\scene.cpp(359): warning C4018: '<': signed/unsigned mismatch
+w:\pgg_opengl_jamie_johnston\pgg_opengl_finished\pgg_flyingteapot\scene.cpp(372): warning C4018: '<': signed/unsigned mismatch
+w:\pgg_opengl_jamie_johnston\pgg_opengl_finished\pgg_flyingteapot\scene.cpp(448): warning C4018: '<': signed/unsigned mismatch
+w:\pgg_opengl_jamie_johnston\pgg_opengl_finished\pgg_flyingteapot\scene.cpp(455): warning C4018: '<': signed/unsigned mismatch
+  PGG_FlyingTeapot.vcxproj -> W:\PGG_OpenGL_Jamie_Johnston\PGG_OpenGL_Finished\Debug\PGG_FlyingTeapot.exe
+  PGG_FlyingTeapot.vcxproj -> W:\PGG_OpenGL_Jamie_Johnston\PGG_OpenGL_Finished\Debug\PGG_FlyingTeapot.pdb (Full PDB)
